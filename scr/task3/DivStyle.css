@@ -1,0 +1,29 @@
+div.Head{
+    width: 200px;
+    height: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+}
+div.part1{
+    width: 85px;
+    height: 200px;
+    border-color: green;
+    border-style: solid;
+    border-width: 2px;
+    position: relative;
+    top: 20px;
+    left: 8px;
+    background-color: aliceblue;
+}
+div.part2{
+    width: 85px;
+    height: 200px;
+    border-color: green;
+    border-style: solid;
+    border-width: 2px;
+    position: relative;
+    top: -184px;
+    left: 105px;
+    background-color: aliceblue;
+}
